@@ -40,10 +40,10 @@ header li{
     margin: 0 15px;
 }
 header li:first-child{/*child primeiro*/
-    margin-left: 0;
+    margin-left: 5px;
 }
 header li:last-child{/*child ultimo*/
-    margin-right: 0;
+    margin-right: 5px;
 }
 header li a {
     color: #101c03;
